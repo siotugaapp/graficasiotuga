@@ -1,0 +1,186 @@
+[
+    {
+        "DT_RowId": "row_28608",
+        "id": "28608",
+        "codconc": "36055",
+        "instrumento": "MP/PXOM SU2A E SU2B",
+        "data_ad": "2023-04-27",
+        "expediente": "PTU-PO-16/099",
+        "estado": "En proceso",
+        "incidencias": ""
+    },
+    {
+        "DT_RowId": "row_28609",
+        "id": "28609",
+        "codconc": "15004",
+        "instrumento": "CE/PXOM",
+        "data_ad": "2023-08-30",
+        "expediente": "PTU-AC-22/017",
+        "estado": "Sen comenzar",
+        "incidencias": ""
+    },
+    {
+        "DT_RowId": "row_28609",
+        "id": "28609",
+        "codconc": "15004",
+        "instrumento": "CE/PXOM",
+        "data_ad": "2023-08-30",
+        "expediente": "PTU-AC-22/017",
+        "estado": "Sen comenzar",
+        "incidencias": ""
+    },
+    {
+        "DT_RowId": "row_28629",
+        "id": "28629",
+        "codconc": "15023",
+        "instrumento": "CE/PXOM",
+        "data_ad": "2023-09-30",
+        "expediente": "PTU-AC-22/036",
+        "estado": "Rematado",
+        "incidencias": ""
+    }, 
+
+    {
+        "DT_RowId": "row_28628",
+        "id": "28628",
+        "codconc": "36074",
+        "instrumento": "MP/PXOM SU2A E SU2B",
+        "data_ad": "2023-05-27",
+        "expediente": "PTU-PO-16/118",
+        "estado": "Rematado",
+        "incidencias": ""
+    },
+     {
+        "DT_RowId": "row_28611",
+        "id": "28611",
+        "codconc": "15005",
+        "instrumento": "CE/PXOM",
+        "data_ad": "2023-09-30",
+        "expediente": "PTU-AC-22/018",
+        "estado": "Rematado",
+        "incidencias": ""
+    },
+    {
+        "DT_RowId": "row_28608",
+        "id": "28608",
+        "codconc": "36055",
+        "instrumento": "MP/PXOM SU2A E SU2B",
+        "data_ad": "2023-04-27",
+        "expediente": "PTU-PO-16/099",
+        "estado": "En proceso",
+        "incidencias": ""
+    },
+    {
+        "DT_RowId": "row_28609",
+        "id": "28609",
+        "codconc": "15004",
+        "instrumento": "CE/PXOM",
+        "data_ad": "2023-08-30",
+        "expediente": "PTU-AC-22/017",
+        "estado": "Sen comenzar",
+        "incidencias": ""
+    },
+    {
+        "DT_RowId": "row_28609",
+        "id": "28609",
+        "codconc": "15004",
+        "instrumento": "CE/PXOM",
+        "data_ad": "2023-08-30",
+        "expediente": "PTU-AC-22/017",
+        "estado": "Sen comenzar",
+        "incidencias": ""
+    },
+    {
+        "DT_RowId": "row_28629",
+        "id": "28629",
+        "codconc": "15023",
+        "instrumento": "CE/PXOM",
+        "data_ad": "2023-09-30",
+        "expediente": "PTU-AC-22/036",
+        "estado": "Rematado",
+        "incidencias": ""
+    }, 
+
+    {
+        "DT_RowId": "row_28628",
+        "id": "28628",
+        "codconc": "36074",
+        "instrumento": "MP/PXOM SU2A E SU2B",
+        "data_ad": "2023-05-27",
+        "expediente": "PTU-PO-16/118",
+        "estado": "Rematado",
+        "incidencias": ""
+    },
+     {
+        "DT_RowId": "row_28611",
+        "id": "28611",
+        "codconc": "15005",
+        "instrumento": "CE/PXOM",
+        "data_ad": "2023-09-30",
+        "expediente": "PTU-AC-22/018",
+        "estado": "Rematado",
+        "incidencias": ""
+    },
+    {
+        "DT_RowId": "row_28608",
+        "id": "28608",
+        "codconc": "36055",
+        "instrumento": "MP/PXOM SU2A E SU2B",
+        "data_ad": "2023-04-27",
+        "expediente": "PTU-PO-16/099",
+        "estado": "En proceso",
+        "incidencias": ""
+    },
+    {
+        "DT_RowId": "row_28609",
+        "id": "28609",
+        "codconc": "15004",
+        "instrumento": "CE/PXOM",
+        "data_ad": "2023-08-30",
+        "expediente": "PTU-AC-22/017",
+        "estado": "Sen comenzar",
+        "incidencias": ""
+    },
+    {
+        "DT_RowId": "row_28609",
+        "id": "28609",
+        "codconc": "15004",
+        "instrumento": "CE/PXOM",
+        "data_ad": "2023-08-30",
+        "expediente": "PTU-AC-22/017",
+        "estado": "Sen comenzar",
+        "incidencias": ""
+    },
+    {
+        "DT_RowId": "row_28629",
+        "id": "28629",
+        "codconc": "15023",
+        "instrumento": "CE/PXOM",
+        "data_ad": "2023-09-30",
+        "expediente": "PTU-AC-22/036",
+        "estado": "Rematado",
+        "incidencias": ""
+    }, 
+
+    {
+        "DT_RowId": "row_28628",
+        "id": "28628",
+        "codconc": "36074",
+        "instrumento": "MP/PXOM SU2A E SU2B",
+        "data_ad": "2023-05-27",
+        "expediente": "PTU-PO-16/118",
+        "estado": "Rematado",
+        "incidencias": ""
+    },
+
+     {
+        "DT_RowId": "row_28611",
+        "id": "28611",
+        "codconc": "15005",
+        "instrumento": "CE/PXOM",
+        "data_ad": "2023-09-30",
+        "expediente": "PTU-AC-22/018",
+        "estado": "Rematado",
+        "incidencias": ""
+    }
+]

@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'XuntaSans-Bold';
+    src: url('fonts/XuntaSans-Bold.woff2') format('woff2');
+  }
+@font-face {
+    font-family: 'XuntaSans-BoldItalic';
+    src: url('fonts/XuntaSans-BoldItalic.woff2') format('woff2');
+  }
+@font-face {
+    font-family: 'XuntaSans-Italic';
+    src: url('fonts/XuntaSans-Italic.woff2') format('woff2');
+  }
+@font-face {
+    font-family: 'XuntaSans-Regular';
+    src: url('fonts/XuntaSans-Regular.woff2') format('woff2');
+  }
+
+ 
+tspan {
+  fill:#0b62a4;
+  font-family: 'XuntaSans-Regular', 'sans-serif'; 
+  font-size: 12px;
+  
+}
+
+.tooltip-title {
+  font-family: 'XuntaSans-Bold', 'sans-serif'; 
+  font-size: 14px;
+  
+}
+
+.tooltip-body {
+  font-family: 'XuntaSans-Regular', 'sans-serif'; 
+  font-size: 12px;
+  color: #0b62a4;
+
+}
+
+
+
+
+
+body {
+    font-family: 'XuntaSans-Regular', 'Arial Narrow Bold' ;    
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
